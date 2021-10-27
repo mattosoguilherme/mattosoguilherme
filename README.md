@@ -1,4 +1,4 @@
-<h1>Hi i'm Guilherme Mattoso 👋<h1> 
+<h1>Hi, i'm Guilherme Mattoso 👋<h1> 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattosoguilherme&show_icons=true&theme=dracula) 
 
