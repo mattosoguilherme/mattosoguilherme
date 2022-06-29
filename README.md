@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Guilherme Mattoso.</h1>
-<h3 align="center">Seja bem-vindo(a) ao meu perfil</h3>
+<h1 align="center">Olá, eu sou o Guilherme Mattoso 😁👋</h1>
+<h3 align="center">Um desenvolvedor apaixonado por tecnologia, estudando e buscando novos conhecimentos para me aperfeiçoar cada vez mais!</h3>
 
 <h3 align="left">Contate-me:</h3>
 <p align="left" >
