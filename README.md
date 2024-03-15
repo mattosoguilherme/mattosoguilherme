@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=mattosoguilherme&show_icons=true&locale=en&theme=dracula" alt="mattosoguilherme" /></p>
 
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
