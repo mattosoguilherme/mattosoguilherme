@@ -36,15 +36,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattosoguilherme&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattosoguilherme&layout=compact&theme=dracula" />
-</p>
-
----
-
 ### 📦 Ver mais projetos
 
 <p align="center">
