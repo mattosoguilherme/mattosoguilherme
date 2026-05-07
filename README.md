@@ -45,28 +45,6 @@
 
 ---
 
-### 🚀 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/mattosoguilherme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mattosoguilherme&repo=automacao-selenium&theme=dracula" />
-  </a>
-  <a href="https://github.com/mattosoguilherme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mattosoguilherme&repo=api-node-crm&theme=dracula" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mattosoguilherme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mattosoguilherme&repo=bot-whatsapp&theme=dracula" />
-  </a>
-  <a href="https://github.com/mattosoguilherme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mattosoguilherme&repo=dashboard-react&theme=dracula" />
-  </a>
-</p>
-
----
-
 ### 📦 Ver mais projetos
 
 <p align="center">
